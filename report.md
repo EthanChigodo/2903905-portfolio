@@ -1,0 +1,1 @@
+I basically got an introdunction on how to use Github and how to use it on VC code as well. I learnt a basic introduction to html, how to add heddings and texts in paragraphs. I also learnt a couple of key words used in Github such as Commit, stage and repository.
